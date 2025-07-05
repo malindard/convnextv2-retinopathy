@@ -1,0 +1,5 @@
+# .gitignore
+convnext-venv/
+__pycache__/
+*.pyc
+.DS_Store

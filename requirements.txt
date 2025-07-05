@@ -1,0 +1,9 @@
+streamlit 
+torch 
+timm 
+opencv-python 
+numpy 
+pandas 
+Pillow
+torchvision
+streamlit-option-menu
